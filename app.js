@@ -1,8 +1,11 @@
 const http = require('http');
 const fs = require('fs');
+require('dotenv').config({path: __dirname + '/.env'});
 
-const hostname = process.env.URL;
+const hostname = process.env['URL'];
 const port = 3000;
+
+console.log(hostname);
 
 const server = http.createServer((req, res) => {
     res.statusCode = 200;
