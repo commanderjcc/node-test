@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4aff747-92e0-4ecf-b090-68c3e65b1d7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/node test" />
+  </component>
+  <component name="ProjectId" id="1VMjERNSHyQFFSKFpb4s73bsxXL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.js" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="NodeJSConfigurationType" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser with-js-debugger="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4aff747-92e0-4ecf-b090-68c3e65b1d7d" name="Default Changelist" comment="" />
+      <created>1577069746134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577069746134</updated>
+      <workItem from="1577069747445" duration="1438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="167" key="#Web_Browsers" timestamp="1577069889967">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="167" key="#Web_Browsers/0.0.1680.1010/-900.-392.900.1400@0.0.1680.1010" timestamp="1577069889967" />
+    <state x="294" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577070016343">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010/-900.-392.900.1400@0.0.1680.1010" timestamp="1577070016343" />
+    <state x="620" y="250" key="FileChooserDialogImpl" timestamp="1577070013276">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="250" key="FileChooserDialogImpl/0.0.1680.1010/-900.-392.900.1400@0.0.1680.1010" timestamp="1577070013276" />
+    <state width="1362" height="256" key="GridCell.Tab.0.bottom" timestamp="1577070018249">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1362" height="256" key="GridCell.Tab.0.bottom/0.0.1680.1010/-900.-392.900.1400@0.0.1680.1010" timestamp="1577070018249" />
+    <state width="1362" height="256" key="GridCell.Tab.0.center" timestamp="1577070018249">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1362" height="256" key="GridCell.Tab.0.center/0.0.1680.1010/-900.-392.900.1400@0.0.1680.1010" timestamp="1577070018249" />
+    <state width="1362" height="256" key="GridCell.Tab.0.left" timestamp="1577070018249">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1362" height="256" key="GridCell.Tab.0.left/0.0.1680.1010/-900.-392.900.1400@0.0.1680.1010" timestamp="1577070018249" />
+    <state width="1362" height="256" key="GridCell.Tab.0.right" timestamp="1577070018249">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1362" height="256" key="GridCell.Tab.0.right/0.0.1680.1010/-900.-392.900.1400@0.0.1680.1010" timestamp="1577070018249" />
+  </component>
+</project>
