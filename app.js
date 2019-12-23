@@ -2,8 +2,8 @@ const http = require('http');
 const fs = require('fs');
 require('dotenv').config({path: __dirname + '/.env'});
 
-const hostname = process.env['URL'].replace('http://','');
-const port = 3000;
+const hostname = process.env['URL'].replace('https://','');
+const port = 80;
 
 console.log(hostname);
 
